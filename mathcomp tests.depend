@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1532996644 source:c:\codeblocks projects\playground\mathcomp tests\main.cpp
+	<iostream>
+	"mathcomp.h"
+	<stdlib.h>
+	"matriz.h"
+
+1533138966 c:\codeblocks projects\playground\mathcomp tests\include\mathcomp.h
+	<iostream>
+	"ponto.h"
+	"vetor.h"
+	"matriz.h"
+	<math.h>
+
+1532048166 c:\codeblocks projects\playground\mathcomp tests\include\ponto.h
+	<iostream>
+	<math.h>
+
+1533141465 source:c:\codeblocks projects\playground\mathcomp tests\src\mathcomp.cpp
+	"mathcomp.h"
+
+1532016968 c:\codeblocks projects\playground\mathcomp tests\include\vetor.h
+	<iostream>
+	<math.h>
+
+1532017342 source:c:\codeblocks projects\playground\mathcomp tests\src\vetor.cpp
+	"vetor.h"
+
+1532048166 source:c:\codeblocks projects\playground\mathcomp tests\src\ponto.cpp
+	"ponto.h"
+
+1532968272 c:\codeblocks projects\playground\mathcomp tests\include\matriz.h
+	<iostream>
+	<math.h>
+	"utils.h"
+
+1533856003 source:c:\codeblocks projects\playground\mathcomp tests\src\matriz.cpp
+	"matriz.h"
+
+1532741907 c:\codeblocks projects\playground\mathcomp tests\include\utils.h
+	<iostream>
+	<math.h>
+
+1533139655 source:c:\codeblocks projects\playground\mathcomp tests\src\utils.cpp
+	"utils.h"
+
